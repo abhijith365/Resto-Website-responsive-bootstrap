@@ -1,0 +1,123 @@
+#header-nav {
+
+	background: url("./img/background3.jpg") no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	min-height: 512px;
+}
+
+.navbar {
+
+	padding: 0 0 4.5rem;
+}
+
+
+.nav-item {
+	padding: 0px 12px;
+}
+
+.nav-link {
+	font-family: "Montserrat-light";
+	font-weight: bold;
+	color: #fff;
+}
+
+.navbar-brand {
+	border: 1px solid #fff;
+	padding: 3px 5px;
+}
+
+.resto-heading {
+	font-family: 'Satisfy', cursive;
+	color: #ff884b;
+}
+
+.heading-minus {
+	margin-top: -54px;
+}
+
+.heading-minus-m {
+	margin-top: -35px;
+}
+
+.border-bottom {
+	border-bottom: 2px solid black;
+	width: 121px;
+}
+
+.discover-img {
+	height: 251px;
+}
+
+#specials {
+
+	background: url("./img/background3.jpg") no-repeat;
+	background-size: cover;
+	object-fit: cover;
+	background-attachment: fixed;
+	min-height: 512px;
+}
+
+.food {
+	width: 292px;
+	height: 267px;
+}
+
+.btn {
+	border: 1px solid #FFA33E;
+	color: #fff;
+	border-radius: 30px;
+	text-transform: uppercase;
+	padding-left: 30px;
+	padding-right: 30px;
+	background-color: #FFA33E;
+}
+
+.link-sm {
+	text-transform: uppercase;
+	color: #000;
+	display: inline-block;
+	text-decoration: none;
+	position: relative;
+	padding-bottom: 5px;
+	border-bottom: 2px solid black;
+}
+
+
+.menu-image {
+	height: 80px;
+	width: 80px;
+}
+
+
+.specials-items img {
+	object-fit: cover;
+}
+
+#specials-items .container {
+	margin-top: -20px;
+
+}
+
+#specials-items .container .col-lg-6 .col-md-6 {
+	padding: 0;
+}
+
+
+#specials-items .container .col-lg-6 .col-md-6 h3 {
+	background-color: white;
+}
+
+td {
+	border: none;
+}
+
+footer .footer-container {
+	background: #111;
+	color: #fff;
+	padding: 20px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: monospace;
+}
